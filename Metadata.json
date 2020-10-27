@@ -1,7 +1,7 @@
 {
     "Author": "anildwa",
     "ContentSize": 4175,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/manage-uptimes-for-100's-of-vms.-schedule-start-and-shutdown-times-for-vms./master/VMUpTimeWorkflow.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/manage-uptimes-for-100-s-of-vms.-schedule-start-and-shutdown-times-for-vms/master/VMUpTimeWorkflow.ps1",
     "DownloadCount": 1001,
     "Id": "Manage-Uptimes-for-100s-of-3b7784c1",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Executes      every 5 minutes (scheduled in Azure Scheduler)Filters      VMs that match uptime criteria and starts or stops VMs. Parallel      Executions on VMs through PowerShell workflow, so can scale to 100s of VMs.Uses      Tags associated with VMs for looking to up t",
     "Title": "Manage Uptimes for 100's of VMs. Schedule Start and Shutdown Times for VMs.",
     "UpdatedDate": "2017-5-5T00:00:00",
-    "Url": "https://github.com/azureautomation/manage-uptimes-for-100's-of-vms.-schedule-start-and-shutdown-times-for-vms.",
+    "Url": "https://github.com/azureautomation/manage-uptimes-for-100-s-of-vms.-schedule-start-and-shutdown-times-for-vms",
     "UserTags": ""
 }
